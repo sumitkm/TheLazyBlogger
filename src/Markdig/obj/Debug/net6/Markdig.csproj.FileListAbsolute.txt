@@ -1,0 +1,12 @@
+C:\Projects\TheLazyBlogger\src\Markdig\bin\Debug\net6\Markdig.deps.json
+C:\Projects\TheLazyBlogger\src\Markdig\bin\Debug\net6\Markdig.dll
+C:\Projects\TheLazyBlogger\src\Markdig\bin\Debug\net6\ref\Markdig.dll
+C:\Projects\TheLazyBlogger\src\Markdig\bin\Debug\net6\Markdig.pdb
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.csproj.AssemblyReference.cache
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.AssemblyInfoInputs.cache
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.AssemblyInfo.cs
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.csproj.CoreCompileInputs.cache
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.dll
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\ref\Markdig.dll
+C:\Projects\TheLazyBlogger\src\Markdig\obj\Debug\net6\Markdig.pdb
